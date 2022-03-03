@@ -1,7 +1,7 @@
 # Deneme
 
 ## Alt Bilgi
-öjdnjgknbn fkehruhwbv 
+öjdn
 daowıj
 
 [google](http://google.com)
