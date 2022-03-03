@@ -1,9 +1,25 @@
-# Deneme
+# Başlıklar -> h1
+## -> h2
+### ->h3
 
-## Alt Bilgi
-öjdn
-daowıj
+- list item 1
+- list item 2
 
-[google](http://google.com)
+* list item 3
+* list item 4
+
+*italic* **bold** ***bolditalic***
+
+
+Link:
+[Yazi](url)
+[Kodluyoruz](https://www.kodluyoruz.org/)
+
+Image/Gorsel:
+![Aciklama Bilgisi](url)
+![Lorem Picture](https://picsum.photos/200/300)
+
+----------------
+...
 
 
